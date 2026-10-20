@@ -1,0 +1,13 @@
+# Raw and processed datasets
+data/raw/
+data/processed/
+*.csv
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Environment secrets
+.env
